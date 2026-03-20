@@ -1,1 +1,1 @@
-# MINI-GAME
+# MINI-GAMEs
